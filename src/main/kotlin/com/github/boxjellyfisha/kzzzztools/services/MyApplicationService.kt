@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.boxjellyfisha.kzzzztools.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.boxjellyfisha.kzzzztools.MyBundle
 
 class MyApplicationService {
 

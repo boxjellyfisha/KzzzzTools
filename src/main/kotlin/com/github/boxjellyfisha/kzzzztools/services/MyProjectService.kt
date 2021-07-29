@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.boxjellyfisha.kzzzztools.services
 
+import com.github.boxjellyfisha.kzzzztools.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
